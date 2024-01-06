@@ -15,4 +15,4 @@
 Y alguna más...
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-schiavoni-a97110268/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan Schiavoni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-schiavoni-a97110268/)

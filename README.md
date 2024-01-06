@@ -11,6 +11,7 @@
 [![Haskell](https://img.shields.io/badge/Haskell-339933?style=for-the-badge&logo=Haskell&logoColor=white&labelColor=101010)]()
 </br>
 [![Assembly](https://img.shields.io/badge/Assembly-999999?style=for-the-badge&logo=AssemblyScript&logoColor=white&labelColor=101010)]()
+[![Ruby](https://img.shields.io/badge/Ruby-5865F2?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
@@ -18,5 +19,4 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Schiavoni-oo77B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-schiavoni-a97110268/)
 
 ## Contacto
-[![Email](https://img.shields.io/badge/juanschiavoni713%40gmail.com-email_pesronal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010
-)](mailto:juanschiavoni713@gmail.com)
+[![Email](https://img.shields.io/badge/juanschiavoni713%40gmail.com-email_pesronal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanschiavoni713@gmail.com)

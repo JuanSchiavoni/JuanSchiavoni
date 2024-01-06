@@ -11,3 +11,8 @@
 [![Haskell](https://img.shields.io/badge/Haskell-339933?style=for-the-badge&logo=Haskell&logoColor=white&labelColor=101010)]()
 </br>
 [![Assembly](https://img.shields.io/badge/Assembly-999999?style=for-the-badge&logo=AssemblyScript&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
+## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-schiavoni-a97110268/)

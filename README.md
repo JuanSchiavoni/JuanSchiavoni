@@ -8,3 +8,5 @@
 </br>
 [![C](https://img.shields.io/badge/C-232F3E?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-47A248?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
+[![Haskell](https://img.shields.io/badge/Haskell-339933?style=for-the-badge&logo=Haskell&logoColor=white&labelColor=101010
+)]()

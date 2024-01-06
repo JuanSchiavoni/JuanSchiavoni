@@ -12,6 +12,7 @@
 </br>
 [![Assembly](https://img.shields.io/badge/Assembly-999999?style=for-the-badge&logo=AssemblyScript&logoColor=white&labelColor=101010)]()
 [![Ruby](https://img.shields.io/badge/Ruby-5865F2?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-69C9D0?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 

@@ -20,4 +20,4 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Schiavoni-oo77B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-schiavoni-a97110268/)
 
 ## Contacto
-[![Email](https://img.shields.io/badge/juanschiavoni713%40gmail.com-email_pesronal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanschiavoni713@gmail.com)
+[![Email](https://img.shields.io/badge/juanschiavoni713%2540gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanschiavoni713@gmail.com)
